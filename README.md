@@ -1,4 +1,4 @@
-Bienvenidos al Prototipo del Tetris
+Bienvenidos al Tetris
 
 ¡Bienvenidos al prototipo del clásico juego Tetris!
 
@@ -20,7 +20,9 @@ En este prototipo, el progreso del juego no se guarda automáticamente. Sin emba
 Tecnologías utilizadas
 - Frontend: HTML, CSS, JavaScript
 - Librería de gráficos: Vite
-Contacto
-- Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en [correo electrónico] o a través de nuestras redes sociales.
 
-¡Gracias por jugar al Prototipo del Tetris! Diviértete y trata de alcanzar la puntuación más alta.
+Contacto
+- Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo en gerdue13@gmail.com.
+  
+
+¡Gracias por jugar al Tetris! Diviértete y trata de alcanzar la puntuación más alta.
