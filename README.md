@@ -1,4 +1,5 @@
 Bienvenidos al Prototipo del Tetris
+
 ¡Bienvenidos al prototipo del clásico juego Tetris!
 
 ¿Qué es este proyecto?
